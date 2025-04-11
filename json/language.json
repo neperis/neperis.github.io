@@ -1,5 +1,21 @@
 [
     {
-        lang_name : Python
-    }
+        "lang_name" : "Python"
+    },
+    
+    {
+        "lang_name" : "Java"
+    },
+    
+    {
+        "lang_name" : "C"
+    },
+    
+    {
+        "lang_name" : "C++"
+    },
+    
+    {
+        "lang_name" : "C#"
+    },
 ]
